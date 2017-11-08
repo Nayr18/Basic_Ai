@@ -1,5 +1,5 @@
-# Artificial-Intelligence
-Windows OS based Offline Speech Recognition Artificial Intelligence Python
+# Windows OS based Offline Speech Recognition Artificial Intelligence Python
+
 
 AI name = Friday
   call her "friday".
