@@ -1,24 +1,35 @@
-# Windows OS based Offline Speech Recognition Artificial Intelligence Python
+# Windows OS based Offline Speech Recognition Artificial Intelligence
 
+This is a basic natural language UI written in python. It uses windows' speech API, so it only works with windows operating system.
+Compared to google speech API, windows speech recognition works in offline. The python program uses the resources of windows speech recognition module which performs speech to text conversion. 
 
-AI name = Friday
-  call her "friday".
+The program acts like a personal assistant (a virtual) just like JARVIS, but in this program i named it FRIDAY.
+
+THE THINGS FRIDAY CAN DO:
+   - Open applications with audible feedback (example command: "Friday, open notepad ++"  FRIDAY: "Opening Notepad++ . . ."
+   - Open folders with audible feedback
+   - Answer questions 
+   - Can perform as a speech based calculator with audible answer
+   
+CAN BE REPROGRAMMED TO PERFORM:
+  - Face recognition using webcam and greet every recognized person with their names
+  - Alarm Clock
+  - Search internet
+  - Realtime translator
   
-#WHAT CAN DO??
+  
+ Requirements:
+ speech
+ numpy
+ pyttsx
+ 
+ 
+ gmail: ryanpontillasiraola18@gmail.com
+ fb:  facebook.com/RYNPRL
+ 
 
+   
+   
 
-can open applications, softwares, and folders using voice command and will hear audible feedback like "opening documents"
-can be programmed to translate specific word into other language like  "translate good morning in tagalog"
-can be programmed to answer conversation. example ..
-              when you say    --- "what's up"
-              friday will say ---- " my system seems to be good sir,thank you how about you sir?"
-                    when you answer    ---- " im fine " or  " im good"
-                    friday will say  ---- "im glad to know your fine sir"
-                    when you answer   ---- " no im not feeling well"
-                    friday will say    ---- " u must be just tired, take a rest or take your medicine"
-                    when you answer      ---- "what medicine should i take?"
-                    friday will say      ---- " pain reliever or paracetamol for head ache"
-                    
-              
               
 
